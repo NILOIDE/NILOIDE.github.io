@@ -1,17 +1,13 @@
 # Site settings
-title: Ion
-email: your-email@domain.com
+title: Nil Stolt Ansó
+email: nilstoltanso@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-#baseurl: "/Ion-Jekyll-Theme" # the subpath of your site, e.g. /blog/
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
+  My name is Nil Stolt Ansó. I am an Artificial Intelligence Master's student at the University of Amsterdam. I use this site to share my opinions on topics that I find interesting and exciting, which tend to revolve around machine learning, techonology and the mind.
+baseurl: ""
+url: "https://NILOIDE.github.io"
 github_username:  NILOIDE
 
 # Build settings
 markdown: kramdown
 
-# SITE CONFIGURATION
-baseurl: ""
-url: "https://NILOIDE.github.io"
+
