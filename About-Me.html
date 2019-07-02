@@ -12,10 +12,20 @@ layout: default
             <div class="4u">
                 <section>
                     <a href="#" class="image fit"><img src="images/dasme_yet_again.jpg" alt="" /></a>
-                    <p>Feugiat amet accumsan ante aliquet feugiat accumsan. Ante blandit accumsan eu amet tortor non lorem felis semper. Interdum adipiscing orci feugiat penatibus adipiscing col cubilia lorem ipsum dolor sit amet feugiat consequat.</p>
-                    <ul class="actions">
-                        <li><a href="#" class="button alt">Learn More</a></li>
-                    </ul>
+                    {% if site.github_username %}
+                        <li>
+                        <a href="https://github.com/{{ site.github_username }}">
+                          <i class="fa fa-github"></i> GitHub
+                        </a>
+                        </li>
+                    {% endif %}
+                    {% if site.linkedin_username %}
+                        <li>
+                        <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+                          <i class="fa fa-linkedin"></i> LinkedIn
+                        </a>
+                        </li>
+                    {% endif %}
                 </section>
                 <hr />
                 <section>
