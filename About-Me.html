@@ -20,32 +20,38 @@ layout: default
                     <p>My passions revolve around science, technology, and philosophy. One of my favourite experiences in life is that of having my world-view changed that occurs after being exposed to new ideas. Through this website, I hope to inspire readers to learn more about these topics, the same way my peers and teachers inspire me. </p>
                 </section>
                 {% if site.facebook_username %}
-                <span style="font-size: 2em;">
-                    <a href="https://www.facebook.com/{{ site.facebook_username }}">
-                        <div class="fa fa-facebook">
-                            <h3>FaceBook</h3>
-                        </div>
-                    </a> 
-                </span>
+                <div class="1u">
+                    <span style="font-size: 2em;">
+                        <a href="https://www.facebook.com/{{ site.facebook_username }}">
+                            <div class="fa fa-facebook">
+                                <h3>FaceBook</h3>
+                            </div>
+                        </a> 
+                    </span>
+                </div>
                 {% endif %}
+                <div class="1u">
                 {% if site.linkedin_username %}
-                <span style="font-size: 2em;">
-                    <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-                        <div class="fa fa-linkedin">
-                            <h3>LinkedIn</h3>
-                        </div>
-                    </a> 
-                </span>
+                    <span style="font-size: 2em;">
+                        <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+                            <div class="fa fa-linkedin">
+                                <h3>LinkedIn</h3>
+                            </div>
+                        </a> 
+                    </span>
                 {% endif %}
+                </div>
+                <div class="1u">
                 {% if site.github_username %}
-                <span style="font-size: 2em; color: Salmon;">
-                    <a href="https://github.com/{{ site.github_username }}">
-                        <div class="fa fa-github">
-                            <h3>GitHub</h3>
-                        </div>
-                    </a> 
-                </span>
+                    <span style="font-size: 2em; color: Salmon;">
+                        <a href="https://github.com/{{ site.github_username }}">
+                            <div class="fa fa-github">
+                                <h3>GitHub</h3>
+                            </div>
+                        </a> 
+                    </span>
                 {% endif %}
+                </div>
             </div>
         </div>
     </div>
