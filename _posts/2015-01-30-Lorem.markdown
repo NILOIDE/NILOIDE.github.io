@@ -2,7 +2,7 @@
 layout: post
 title:  "The pursuit of automation"
 date:   23-06-2019
-img_src:  "{{ site.baseurl }}/images/pic02.jpg"
+img_src:  {{ site.baseurl }}/images/pic02.jpg
 teaser: What is love? Baby don't hurt me. What is love? Baby don't hurt me. What is love? Baby don't hurt me. What is love? Baby don't hurt me. What is love? Baby don't hurt me. What is love? Baby don't hurt me.
 ---
 <img src="{{ site.baseurl }}/images/pic02.jpg" class="fit image">
