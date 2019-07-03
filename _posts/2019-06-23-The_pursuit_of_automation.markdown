@@ -6,6 +6,7 @@ image:  <img src="{{ site.baseurl }}/images/road.png" class="fit image">
 teaser: What is the interest behind developing self-driving vehicles? Can they ever be better drivers than us humans? How will a transition to autonomous traffic impact our society?
 ---
 <img src="{{ site.baseurl }}/images/road.png" class="fit image">
+
 The rise of Artificial Intelligence is a good example of how far technology has come in recent years. Incredible breakthroughs are being accomplished on a daily basis thanks to how smart our tools have become, but today's society is increasingly receiving these advances with mixed feelings. I believe plenty of dystopias depicted in popular culture have done a great job at portraying how quickly a technology with good-hearted intentions can irreversibly change our society for the worse, and for good reason, public perception has learned to develop concern for how some of these new technologies will shape the world we live in. 
 
 This brings me to the self-driving vehicle industry. The excitement that companies such as Tesla have generated among the general public is quite unheard of. You can go online and find countless videos of people recording themselves on their first self-driving car ride experience, sharing nothing but awe and excitement. However, there is another set of individuals that have began to point out the repercussions that this technology will bring. You know what pays for the research and development of this kind of industry? Let me tell you, it isn't private consumers buying the next generation of family cars. 
