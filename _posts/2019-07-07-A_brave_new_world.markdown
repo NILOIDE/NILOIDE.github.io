@@ -6,4 +6,4 @@ teaser: "Coming soon"
 ---
 
 <img src="{{ site.baseurl }}/images/road_timelapse.png" class="fit image">
-
+Coming soon.
