@@ -1,5 +1,8 @@
 ---
 layout: post
+title:  "The pursuit of automation"
+date:   23-06-2019
+teaser: What is love? Baby don't hurt me.
 ---
 <img src="{{ site.baseurl }}/images/pic02.jpg" class="fit image">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus fringilla dui. Donec laoreet maximus elit. Mauris ullamcorper condimentum lobortis. Donec maximus, mi vitae iaculis placerat, ligula mi maximus lectus, ac varius mi nulla id neque. Quisque porta eros nisi, eu fringilla urna dictum vitae. Vestibulum id metus eu nisl sodales consectetur. Phasellus et ultrices lacus.
