@@ -23,17 +23,24 @@ layout: default
                     <p>I am a student at the Artificial Intelligence Master's programme at the University of Amsterdam. Over the years I have developed an interest in understanding the nature of intelligence, whether it be by learning about the human mind or by bringing complex behaviour in machines to life.</p>
                     <p>My passions revolve around science, technology, and philosophy. One of my favourite experiences in life is that of having my world-view changed that occurs after being exposed to new ideas. Through this website, I hope to inspire readers to learn more about these topics, the same way my peers and teachers inspire me. </p>
                 </section>
-                <section>
+                <div class="2u">
                 {% if site.linkedin_username %}
                     <span style="font-size: 2em;">
                         <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
                             <div class="fa fa-linkedin">
-                                <NOBR><h4>LinkedIn</h4></NOBR>
+                                <h4>LinkedIn</h4>
                             </div>
                         </a> 
                     </span>
                 {% endif %}
-                </section>
+                </div>
+                <div class="2u">
+                    <span style="font-size: 2em;">
+                        <a href="https://linkedin.com/in/{{ site.linkedin_username }}"> 
+                        <h4>LinkedIn</h4>
+                        </a> 
+                    </span>
+                </div>
                 <section>
                 {% if site.github_username %}
                     <span style="font-size: 2em;">
