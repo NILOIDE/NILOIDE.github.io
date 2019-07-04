@@ -22,17 +22,17 @@
 		line-height: 1.75em;
 	}
 
-	link {
-		background: #FFFFFF
-		text-decoration: none;
-	}
-
 	a {
 		color: #629DD1;
 		text-decoration: underline;
 	}
 
 		a:hover {
+			text-decoration: none;
+		}
+
+		a:nocolor {
+			background: #FFFFFF
 			text-decoration: none;
 		}
 
