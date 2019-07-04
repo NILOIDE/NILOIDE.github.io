@@ -24,17 +24,12 @@
 
 	a {
 		color: #629DD1;
-		text-decoration: underline;
+		text-decoration: none;
 	}
 
 		a:hover {
 			text-decoration: none;
 		}
-	
-	.editlink a {
-		color: #FFFFF;
-		text-decoration: none;
-	}
 
 	strong, b, .cc-active {
 		color: #666f77;
