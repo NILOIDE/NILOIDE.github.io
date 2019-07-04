@@ -165,6 +165,8 @@
 
 	section.special, article.special {
 		text-align: center;
+		color: #FFFFF;
+		text-decoration: none;
 	}
 
 	header p {
