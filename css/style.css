@@ -30,11 +30,11 @@
 		a:hover {
 			text-decoration: none;
 		}
-
-		a:nocolor {
-			background: #FFFFFF
-			text-decoration: none;
-		}
+	
+	link {
+		color: #FFFFF;
+		text-decoration: none;
+	}
 
 	strong, b, .cc-active {
 		color: #666f77;
