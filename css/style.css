@@ -22,6 +22,11 @@
 		line-height: 1.75em;
 	}
 
+	link {
+		color: #FFFFFF;
+		text-decoration: none;
+	}
+
 	a {
 		color: #629DD1;
 		text-decoration: underline;
