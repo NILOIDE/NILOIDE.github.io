@@ -14,7 +14,8 @@ layout: default
             <header class="major">
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             </header>
-            <div class="row">
+			<div class="container">
+			<div class="row">
     			<div class="8u">
 		            {{ post.teaser }}
 
@@ -28,6 +29,7 @@ layout: default
                     <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
                 </ul>
             </section>
+        	</div>
         </div>
     {% endfor %}
 </section>
