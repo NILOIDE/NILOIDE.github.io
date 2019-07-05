@@ -495,9 +495,14 @@
 			
 		.image.short {
 			display: block;
+			margin: 0 0 2em 0;
 			width: 100%;
-			height: 300px;
 		}
+			.image.short img{
+				display: block;
+				width: 100%;
+				height: 300px;
+			}
 
 /* List */
 
