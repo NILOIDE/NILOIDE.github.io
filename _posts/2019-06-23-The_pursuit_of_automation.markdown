@@ -2,7 +2,7 @@
 layout: post
 title:  "The pursuit of automation"
 date:   23-06-2019
-image:  <img src="{{ site.baseurl }}/images/road.png" class="fit image">
+image:  "/images/road.png"
 teaser: What is the interest behind developing self-driving vehicles? Can they ever be better drivers than us humans? How will a transition to autonomous traffic impact our society?
 ---
 <img src="{{ site.baseurl }}/images/road.png" class="fit image">
