@@ -17,7 +17,9 @@ layout: default
 			<div class="container">
 				<div class="row">
 	    			<div class="4u">
-			            {{ post.teaser }}
+			            <section class="special">
+			            	{{ post.teaser }}
+			            </section>
 						<section class="special">
 			                <ul class="actions">
 			                    <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
