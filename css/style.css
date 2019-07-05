@@ -479,7 +479,7 @@
 		.image.right {
 			float: right;
 			padding: 0 0 0 0;
-			width: 50%
+			height: 100%;
 		}
 
 		.image.fit {
