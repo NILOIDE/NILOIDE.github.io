@@ -14,12 +14,15 @@ layout: default
             <header class="major">
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             </header>
-            <div class="container">
-            {{ post.teaser }}
-            </div>
-			<div class="container">
-                <a href="{{ site.baseurl }}/2019/06/23/The_pursuit_of_automation.html"><img src="{{ site.baseurl }}{{post.image}}" class="fit image"></a>
-            </div>
+            <div class="row">
+    			<div class="container">
+		            {{ post.teaser }}
+
+            	</div>
+				<div class="container">
+		            <a href="{{ site.baseurl }}/2019/06/23/The_pursuit_of_automation.html"><img src="{{ site.baseurl }}{{post.image}}" class="fit image"></a>
+		        </div>
+	        </div>
             <section class="special">
                 <ul class="actions">
                     <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
