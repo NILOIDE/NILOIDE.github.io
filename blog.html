@@ -18,17 +18,17 @@ layout: default
 				<div class="row">
 	    			<div class="4u">
 			            {{ post.teaser }}
-
+						<section class="special">
+			                <ul class="actions">
+			                    <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
+			                </ul>
+			            </section>
 	            	</div>
 					<div class="8u">
 			            <a href="{{ site.baseurl }}/2019/06/23/The_pursuit_of_automation.html"><img src="{{ site.baseurl }}{{post.image}}" class="fit image"></a>
 			        </div>
 		        </div>
-            <section class="special">
-                <ul class="actions">
-                    <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
-                </ul>
-            </section>
+            
         	</div>
         </div>
     {% endfor %}
