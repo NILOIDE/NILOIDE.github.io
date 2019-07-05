@@ -496,7 +496,7 @@
 			
 		.image.crop {
         	overflow: hidden;
-			display: block;
+			float: right;
 			margin: 0 0 2em 0;
 			width: 50%;
 		}
