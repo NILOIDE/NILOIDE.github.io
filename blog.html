@@ -16,19 +16,19 @@ layout: default
             </header>
 			<div class="container">
 				<div class="row">
-	    			<div class="4u">
+	    			<div class="8u">
 			            {{ post.teaser }}
 
 	            	</div>
-	            	<section class="special">
-		                <ul class="actions">
-		                    <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
-		                </ul>
-		            </section>
-					<div class="8u">
+					<div class="4u">
 			            <a href="{{ site.baseurl }}/2019/06/23/The_pursuit_of_automation.html"><img src="{{ site.baseurl }}{{post.image}}" class="fit image"></a>
 			        </div>
 		        </div>
+            <section class="special">
+                <ul class="actions">
+                    <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
+                </ul>
+            </section>
         	</div>
         </div>
     {% endfor %}
