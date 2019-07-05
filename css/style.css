@@ -495,16 +495,12 @@
 			}
 			
 		.image.crop {
-        		overflow: hidden;
+        	overflow: hidden;
 			display: block;
 			margin: 0 0 2em 0;
-			width: 100%;
+			width: 50%;
 		}
-			.image.crop img{
-				object-fit: contain;
-				width: 100%;
-				height: 30px;
-			}
+
 
 /* List */
 
