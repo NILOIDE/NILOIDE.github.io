@@ -1011,7 +1011,10 @@
 		#banner .inner {
 			position: relative;
 			z-index: 1;
-			height: 30px;
+		}
+
+		#banner div {
+			height: 200px;
 		}
 
 			#banner .inner :last-child {
