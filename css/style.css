@@ -996,7 +996,7 @@
 		padding: 14em 0;
 		text-align: center;
 		position: relative;
-		height: 50em;
+		height: 50px;
 	}
 
 		#banner:before {
@@ -1012,8 +1012,6 @@
 		#banner .inner {
 			position: relative;
 			z-index: 1;
-			left: -50;
-			top: -50;
 		}
 
 			#banner .inner :last-child {
