@@ -1011,6 +1011,8 @@
 		#banner .inner {
 			position: relative;
 			z-index: 1;
+			left: -50em;
+			top: -50em;
 		}
 
 			#banner .inner :last-child {
