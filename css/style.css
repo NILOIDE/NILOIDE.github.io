@@ -992,6 +992,7 @@
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
+		max-height: 50px;
 		color: #d8d8d8;
 		padding: 14em 0;
 		text-align: center;
