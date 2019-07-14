@@ -32,9 +32,10 @@ layout: landing-page
 								<h3>Recent entries</h3>
 								<ul class="alt">
 									<li>
-										<a href="{{ site.baseurl }}/2019/06/23/The_pursuit_of_automation.html">The pursuit of automation</a>
-										<br>
-										<a href="{{ site.baseurl }}/2019/07/07/The_first_few_steps.html">The first few steps</a>
+									    {% for post in site.posts %}
+											<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+											<br>
+									    {% endfor %}
 									</li>
 								</ul>
 							</section>
