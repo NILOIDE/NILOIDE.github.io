@@ -989,10 +989,9 @@
 	#banner {
 		background-color: #666666;
 		background-image: url("../images/banner.jpg");
-		background-size: 100% 30%;
+		background-size: 100% 50px;
 		background-position: center center;
 		background-repeat: no-repeat;
-		background-height: 30px;
 		color: #d8d8d8;
 		padding: 14em 0;
 		text-align: center;
