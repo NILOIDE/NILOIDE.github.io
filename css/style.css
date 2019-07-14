@@ -1017,6 +1017,9 @@
 			#banner .inner :last-child {
 				margin-bottom: 0;
 			}
+			#banner .inner :first-child {
+				margin-top: 0;
+			}
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
 			color: #ffffff;
