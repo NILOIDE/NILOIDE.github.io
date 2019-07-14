@@ -989,7 +989,7 @@
 	#banner {
 		background-color: #666666;
 		background-image: url("../images/banner.jpg");
-		background-size: cover;
+		background-size: 100% 30%;
 		background-position: left top;
 		background-repeat: no-repeat;
 		max-height: 50px;
