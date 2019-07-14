@@ -1009,6 +1009,7 @@
 		}
 
 		#banner .inner {
+			background-image: url("../images/banner2.png");
 			position: relative;
 			z-index: 1;
 		}
