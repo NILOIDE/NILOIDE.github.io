@@ -1013,9 +1013,9 @@
 			z-index: 1;
 		}
 
-			#banner .inner :last-child {
+			/*#banner .inner :last-child {
 				margin-bottom: 0;
-			}
+			}*/
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
 			color: #ffffff;
