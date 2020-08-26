@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Us and Ourselves"
-date:   26-08-2019
+date:   26-08-2020
 image:  "/images/nerves.jpg"
 teaser: "What does it mean for something to be conscious? What even is consciousness? How does our brain give rise to it?"
 ---
