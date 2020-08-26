@@ -2,10 +2,10 @@
 layout: post
 title:  "Us and ourselves"
 date:   27-08-2020
-image:  "/images/intersection.png"
+image:  "/images/nerves.jpg"
 teaser: "What does it mean for something to be conscious? What even is consciousness? How does our brain give rise to it?"
 ---
-<img src="{{ site.baseurl }}/images/intersection.png" class="fit image">
+<img src="{{ site.baseurl }}/images/nerves.jpg" class="fit image">
 
 Consciousness is a term that is quite intuitive to every human being, yet if you are to ask anyone to provide you with a definition, you will receive broad and fuzzy description. The Oxford Languages dictionary defines consciousness as "The fact of awareness by the mind of itself and the world". However, this simplification does not do justice to the large collection of literature that has been built on the subject.
 
