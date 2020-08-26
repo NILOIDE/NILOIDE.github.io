@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Us and Ourselves"
-date:   10-08-2019
+date:   26-08-2019
 image:  "/images/nerves.jpg"
 teaser: "What does it mean for something to be conscious? What even is consciousness? How does our brain give rise to it?"
 ---
@@ -16,7 +16,7 @@ What is consciousness? Why is it, evolutionarily speaking, beneficial for consci
 To begin answering these questions, we should first note that the term 'consciousness' gets thrown around under multiple distinct meanings. The <a href="https://plato.stanford.edu/entries/consciousness/#ConCon">Standford Encyclopedia</a> defines two general ideas: _Creature consciousness_ and _State consciousness_. The former has to do with the level of awareness we associate to an external creature, while the latter is the notion we use to describe the mental state that a being is currently in.  The Standford page goes into much deeper detail that I can possibly explore in this post, and I recommend you give it a read if your want a nice introduction into this field of philosphy.
 
 
-## <u>Creature consciousness and the evolutionary perspective</u>
+#### <u>Creature consciousness and the evolutionary perspective</u>
 Lets say we define consciousness as awareness of one's environment and it's internal states. Perhaps a simpler way to explore consciousness is by trying to comparing the levels of consciousness of different entities. On the one side, everyone would agree that a simple stone is not at all consciouss. However, what about a mouse? Ok, maybe a mouse is couscious enough to deserve the term, but what about a spider? Spiders are capable of navigating their surroundings, as well as being aware of their inner biological needs. So maybe we can squeeze spiders under the 'consciousness' umbrella? What about single-celled organisms? 
 
 What I'm getting at here is that maybe this form consciousness can be seen as a spectrum with inanimate objects on one side and complex intelligence beings on the other. Maybe over many small incremental states, evolution has climbed this scale from innanimate unicellular processes, to somewhat-conscious simple multicellular organisms, to the complex intelligent apes we are today.
