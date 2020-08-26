@@ -7,7 +7,7 @@ teaser: "What does it mean for something to be conscious? What even is conscious
 ---
 <img src="{{ site.baseurl }}/images/nerves.jpg" class="fit image">
 
-Consciousness is a term that is quite intuitive to every human being, yet if you are to ask anyone to provide you with a definition, you will receive broad and fuzzy description. The Oxford Languages dictionary defines consciousness as "The fact of awareness by the mind of itself and the world". However, this simplification does not do justice to the large collection of literature that has been built on the subject.
+Consciousness is a term that is quite intuitive to every human being, yet if you are to ask anyone to provide you with a definition, you will receive broad and fuzzy description. The Oxford Languages dictionary defines consciousness as _"The fact of awareness by the mind of itself and the world"_. However, this simplification does not do justice to the large collection of literature that has been built on the subject.
 
 Many schools of thought have provided a variety of competing ideas that aim to better understand what it is that gives rise to the process through which we experience our surroundings and our mind's inner mechanisms. The most unsettling part is not that we can't seem to discover the precise answers to our sentience, it is the fact that we don't even know what are the questions we should be asking.
 
