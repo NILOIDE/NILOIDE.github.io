@@ -22,7 +22,7 @@ between a conscious system and a non-conscious one? Is it even possible to objec
 conscious?
 
 To begin answering these questions, we should first note that the term 'consciousness' gets thrown around under multiple 
-distinct meanings. The <a href="https://plato.stanford.edu/entries/consciousness/#ConCon">Standford Encyclopedia</a> 
+distinct meanings. The <a href="https://plato.stanford.edu/entries/consciousness/#ConCon" target="_blank">Standford Encyclopedia</a> 
 defines two general ideas: **_Creature consciousness_** and **_State consciousness_**. The former has to do with the 
 level of awareness we associate to an external creature, while the latter is the notion we use to describe the mental 
 state that a being is currently in.  The Standford page goes into much deeper detail that I can possibly explore in this 
@@ -40,7 +40,7 @@ spectrum with inanimate objects on one side and complex intelligence beings on t
 incremental states, evolution has climbed this scale from inanimate unicellular processes, to somewhat-conscious simple 
 multicellular organisms, to the complex intelligent apes we are today.
 
-The youtube channel **In a Nutshell** has a <a href="https://youtu.be/H6u0VBqNBQ8">very nice video</a> on this very 
+The youtube channel **In a Nutshell** has a <a href="https://youtu.be/H6u0VBqNBQ8" target="_blank">very nice video</a> on this very 
 idea. The first step towards consciousness is possibly a unicelullar being capable of reacting to the level of food in 
 its environment. Reacting to inner states such as the level of hunger yields advantages in the evolutionary process. 
 Furthermore, being aware of your surroundings, as well as building an inner representation of the world around you 
