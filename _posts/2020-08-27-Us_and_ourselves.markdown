@@ -69,19 +69,28 @@ the brain are necessary for consciousness? The information processing necessary 
 exhibit don't necessarily take place in the brain at all. Whenever you accidentally burn yourself, the information 
 perceived at your limbs travels to the spinal cord, where an action is automatically taken before the signal is even 
 able to reach your brain. These kinds of evidence seem to imply that the collection of matter that gives rise to 
-consciousness has very fuzzy borders. This issues, however, get even weirder implications.
+consciousness has very fuzzy borders. This issue, however, have even weirder implications.
 
-Take a person, let's call him Adam, who had a serious brain injury that caused him to lose his ability to store 
-information into his long-term memory. He however, carries around a notebook where he writes down all important 
+Take a person, let's call him Adam, who had a serious brain injury that lead to him having anterograde amnesia and thus 
+losing the ability to create new long-term memories. He however, carries around a notebook where he writes down all important 
 information he wants to recall later in the day, and for all intents and purposes, he is able to lead a normal day-to-day 
 life. Lets take another person, Bob, who has never suffered from such an injury and is able to recall from his long-term 
 memory normally. We could argue that Adam's notebook is equivalent to the part of Bob's brain responsible for storing 
-long-term memories. Is this notebook then part of the conscious entity that makes up Adam? At the end of the day, part 
-of the internal state that Adam is aware of lives in the notebook. This
+memories. Is this notebook part of the conscious entity that makes up Adam? At the end of the day, part 
+of the internal state of Adam lives in the notebook. 
 
-Notepad and memory. Calculators and outer memory. Material of consciousness, machines, simulations, simulated worm nervous system.
-
+If you think the previous example is some far-fetched edge case, think again. In philosophy, the idea of **enactivism** 
+claims that cognition is not exclusively tied to the working of an 'inner mind', and that a mind, if able to, will 
+prefer to push cognitive processes outside of the brain. This is exactly what we see happen in daily lives when we, 
+for example, push simple mathematical operations onto our calculators. The same could be said about hiring a secretary, 
+part of your cognition could be said to live within your secretary. Now, one could argue that these example are 
+not permanently part of someone's cognitive workspace, and so calling it part of that person's consciousness is not fair.
+However, I want you to think about the ever-increasing level of reliance we have on our smartphones. They are becoming 
+ever-present in our lives. Our smartphones are already learning about our needs and desires, about the way we think and 
+behave... how long until they become an inseparable part of our minds? 
+ 
 
 #### <u>State consciousness and the subjective experience</u>
 
 
+Material of consciousness, machines, simulations, simulated worm nervous system.
