@@ -87,10 +87,30 @@ part of your cognition could be said to live within your secretary. Now, one cou
 not permanently part of someone's cognitive workspace, and so calling it part of that person's consciousness is not fair.
 However, I want you to think about the ever-increasing level of reliance we have on our smartphones. They are becoming 
 ever-present in our lives. Our smartphones are already learning about our needs and desires, about the way we think and 
-behave... how long until they become an inseparable part of our minds? 
+behave... how long until they become an <a href="https://www.youtube.com/watch?v=lA77zsJ31nA" target="_blank">
+indistinguishable part of our minds</a>? 
  
 
 #### <u>State consciousness and the subjective experience</u>
 
+The other concept that people refer to with the word 'consciousness' is the subjective experience that a conscious being 
+possesses. Now, there are a lot of different theories regarding the nature of this kind of consciousness. **Dualism** is 
+one such doctrine. Dualism says the mental and the physical are two separate entities, and in some sense the experience 
+of being conscious happens in another plane of existence and is not subject to the laws of nature. This idea has 
+obviously been highly criticized as there is no way to prove that such alternate plane exists. 
 
-Material of consciousness, machines, simulations, simulated worm nervous system.
+Another doctrine is that of **materialism**: "*the world is entirely physical*". Modern neuroscience tends to fall under 
+this doctrine since its philosophy revolves around the mind emerging from the brain. It is really hard to be a 
+dualist given the overwhelming evidence showing that changes in the brain (stimulation, drugs, injuries, ...) lead to 
+changes in awareness being reported by the participant. However, this gets us no closer to understanding what 
+consciousness is. After all, we can't directly observe someone's first-person experience of the world by looking at their 
+brain, we have to take their word for it. On the other hand, one can't simply claim there is no such thing as a 
+subjective experience, as that would be hypocritical. It is undeniable that YOU yourself experience such subjective state.
+
+There is a famous thought experiment going by the name of "*The philosophical zombie*" that aims to show that it is 
+in fact impossible to prove that consciousness exists on anyone except for yourself. It could very well be the case that 
+everyone around you are simply 'empty shells'. They might exhibit complex behaviour, but at they the are simply zombies 
+acting according some predetermined inner rules. You know that you yourself experience consciousness, but no form of 
+interaction with anyone else will ever provide proof of whether they do have a subjective experience.
+
+
