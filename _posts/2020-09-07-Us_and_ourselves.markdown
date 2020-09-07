@@ -8,7 +8,7 @@ teaser: "What is the nature of consciousness? What does it mean for something to
 <img src="{{ site.baseurl }}/images/nerves.jpg" class="fit image">
 
 Consciousness is a term that is quite intuitive to every human being, yet if you are to ask anyone to provide you with a 
-definition, you will receive broad and fuzzy description. The Oxford Languages dictionary defines consciousness as _"The 
+definition, you would receive a broad and fuzzy description. The Oxford Languages dictionary defines consciousness as _"The 
 fact of awareness by the mind of itself and the world"_. However, this simplification does not do justice to the large 
 collection of literature that has been built on the subject.
 
